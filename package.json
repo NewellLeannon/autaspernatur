@@ -1,0 +1,31 @@
+{
+  "name": "autaspernatur",
+  "version": "1.0.0",
+  "description": "JSON typescript runtime validation",
+  "main": "dist/src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewellLeannon/autaspernatur.git"
+  },
+  "keywords": [
+    "json",
+    "typescript",
+    "magni",
+    "sapiente",
+    "reflection",
+    "repudiandae"
+  ],
+  "author": "JaclynWaters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewellLeannon/autaspernatur.git/issues"
+  },
+  "homepage": "https://github.com/NewellLeannon/autaspernatur.git",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
